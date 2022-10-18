@@ -19,3 +19,13 @@
 
 ![Gambar1](screenshot/py2.png)
 
+## LATIHAN 3
+
+### - Menjalankan IDLE
+####   - Membuat file baru dengan nama **latihan3.py** (pastikan lokasi file pada folder lab2py pada direktori anda)
+####   - Menggunakan fungsi **input** untuk mengambil nilai variabel dari keyboard
+
+![Gambar1](screenshot/py3.png)
+
+![Gambar1](screenshot/py4.png)
+
