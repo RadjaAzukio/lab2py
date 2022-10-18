@@ -17,5 +17,5 @@
 
 ![Gambar1](screenshot/py1.png)
 
-![Gambar1](sreenshot/py2.png)
+![Gambar1](screenshot/py2.png)
 
