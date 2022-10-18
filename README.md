@@ -7,3 +7,15 @@
 
 ![Gambar1](screenshot/py.png)
 
+## LATIHAN 2
+
+### - Menjumlahkan dua buah variabel bilangan menggunakan variabel a dan b
+####   - Mendenifisikan variabel a dengan nilai 8
+####   - Mendenifisikan variabel b dengan nilai 6
+####   - Mencetak nilai variabel a dan b 
+####   - Mencetak hasil penjumlahan a+b
+
+![Gambar1](screenshot/py1.png)
+
+![Gambar1](sreenshot/py2.png)
+
