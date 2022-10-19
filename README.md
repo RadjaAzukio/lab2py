@@ -47,7 +47,7 @@
 
 ## Menjalankan Program
 
-![Gambar1](screenshot/py8png)
+![Gambar1](screenshot/py8.png)
 -
 -
 -
