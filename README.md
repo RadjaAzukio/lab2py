@@ -29,3 +29,32 @@
 
 ![Gambar1](screenshot/py4.png)
 
+## Langkah-Langkah Mengggunakan PyCharm
+
+#### - Jika belum terinstal, siahkan download di https://www.jetbrains.com/pycharm/
+#### - Setelah selesai instalisasi, buka **PyCharm**
+#### - Membuat laman kerja baru dengan menekan (+) atau *Create New Project
+
+![Gambar1](screenshot/py5.png)
+
+## Virtual Environment
+
+![Gambar1](screenshot/py6.png)
+
+## Menambahkan File Baru
+
+![Gambar1](screenshot/py7.png)
+
+## Menjalankan Program
+
+![Gambar1](screenshot/py8png)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+###### NoNe~'. ######
