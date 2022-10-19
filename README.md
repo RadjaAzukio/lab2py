@@ -48,13 +48,14 @@
 ## Menjalankan Program
 
 ![Gambar1](screenshot/py8.png)
--
--
--
--
--
--
--
--
--
+
+
+
+
+
+
+
+
+
+
 ###### NoNe~'. ######
